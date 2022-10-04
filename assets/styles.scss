@@ -6,6 +6,8 @@ styles: true
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import alembic;
+
 // https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
 $sans-serif: 'Noto Sans KR';
 $monospace: 'Ubuntu Mono';
@@ -19,18 +21,18 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219
 html {
-  font-size: 12px; // change to whatever
+  font-size: 10px; // change to whatever
   
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 12px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // change to whatever
+    font-size: 14px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
+    font-size: 16px; // change to whatever
   }
 }
 
