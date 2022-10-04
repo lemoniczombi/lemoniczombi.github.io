@@ -3,7 +3,7 @@ title: Something or anything
 feature_text: |
   ## Blog for anything
   AI engineer, Data scientist, (Contra)Bassist, or just geek
-feature_image: "https://bit.ly/3e9yEaJ"
+feature_image: "(https://upload.wikimedia.org/wikipedia/commons/e/e5/Paul_Gauguin_-_D%27ou_venons-nous.jpg"
 
 ---
 
