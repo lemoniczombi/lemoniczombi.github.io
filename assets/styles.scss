@@ -1,14 +1,12 @@
+// Tnks to https://evenharder.github.io/blog/jekyll-change-fonts
+
 ---
 title: false
 styles: true
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "alembic";
-
-// Tnks to https://evenharder.github.io/blog/jekyll-change-fonts
---- 
-# Only the main Sass file needs front matter (the dashes are enough)
---- 
 
 // https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
 $sans-serif: 'Noto Sans KR';
