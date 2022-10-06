@@ -64,6 +64,10 @@ a {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+    text-shadow: 0.1rem 0 $backgroundColour,
+                 0.15rem 0 $backgroundColour,
+                -0.1rem 0 $backgroundColour,
+                -0.15rem 0 $backgroundColour;
   }
 
   // Heading level 1.
