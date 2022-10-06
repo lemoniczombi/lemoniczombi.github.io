@@ -44,8 +44,8 @@ author: lemoniczombi # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Youngbin Cho # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/lemoniczombi
-    - https://www.instagram.com/lemoniczombi
+    - https://twitter.com/young_empty_
+    - https://www.instagram.com/young_empty_
     - https://github.com/lemoniczombi
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
@@ -92,7 +92,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: ko-KR # Set the site language
-title: "lemoniczombi" # Site name or title, also used in jekyll-seo-tag
+title: "Something or anything" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://lemoniczombi.github.io" # Site url, also used in jekyll-seo-tag
