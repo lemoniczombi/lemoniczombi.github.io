@@ -19,15 +19,22 @@ categories:
 나중에 바꾸기도 편하지 않을까 싶어서 Jekyll을 이용해 blog 만드는 법을 그대로 사용해보기로 하였다.
 
 (여담이지만 Jekyll이라는 단어가 어디서 왔는지 찾아보았는데, 꽤나 유래가 재밌었다. 아래에 wikipedia link를 첨부한다.)
+
 _Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
 
 <!-- more -->
 
 ## 1. Github repository 생성하기
 
-일단 그 이전에, 블로그 형태를 어떻게 만들까 고민했었는데, 아무래도 직접 구동할 수 있는 서버나 이런게 없다보니 github를 이용하기로 하였다.
+일단 그 이전에, 블로그 형태를 어떻게 만들까 고민했었는데, 아무래도 직접 구동할 수 있는 서버나 이런게 없다보니 [github](https://github.com)를 이용하기로 하였다.
+
+(당연히 로그인은 필수다)
+
+<!-- more -->
 
 ![image](https://user-images.githubusercontent.com/67729622/193965187-f4645d38-6609-4bf7-86ea-98a93fdc1cf6.png)
 
-여기에 보이는 "Create New Repository"
+<!-- more -->
+
+여기에 보이는 "[Create New Repository]"를 클릭하게 되면 .
  
