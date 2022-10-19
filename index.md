@@ -1,8 +1,8 @@
 ---
 title: Something or anything
 feature_text: |
-  ## Blog for anything
-  AI engineer, Data scientist, (Contra)Bassist, or just geek
+  ## <span style="background-color:#FFFFFF">Blog for anything</span>
+  <span style="background-color:#FFFFFF">AI engineer, Data scientist, (Contra)Bassist, or just geek</span>
 feature_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Paul_Gauguin_-_D%27ou_venons-nous.jpg"
 
 ---
