@@ -2,7 +2,7 @@
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 
-다양한 jekyllb 기반의 blog 작성 사용
+다양한 jekyllb 기반의 blog 작성 사용<br>
 blog 페이지에 공부한 내용 올리기 진행중
 
 ## Get from [Alembic](https://alembic.darn.es/)
