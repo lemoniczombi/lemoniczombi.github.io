@@ -15,8 +15,8 @@ feature_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Paul_Gauguin
 
 
 ## Where am I
-- 2022.12 ~         (예정)    Data Scientist at [Insilicogen](https://www.insilicogen.com/)
-- 2022.07 ~ 2022.11 (예정)    AI Tutor manager as Freelancer
+- 2022.12 ~                   Data Scientist at [D.iF](https://d-if.kr)
+- 2022.07 ~ 2022.11           AI Tutor manager as Freelancer
 - 2022.03 ~ 2022.09           Computational Systems Biology Laboratory as Master's degree candidate
 - 2021.07 ~ 2022.09           Bioinformatics and Molecular Design Research Center(BMDRC) Researcher
 - 2015.03 ~ 2021.08           Yonsei Univ. Dept of Biotechnology(BS)
