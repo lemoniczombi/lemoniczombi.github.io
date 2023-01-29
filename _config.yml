@@ -62,7 +62,7 @@ timezone: Asia/Seoul # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Studies # Needed for Siteleaf
+    title: Categories # Needed for Siteleaf
     output: true
     description: "공부한 것들을 분류해서 작성" # The post list page content
     feature_text: |
@@ -78,10 +78,10 @@ defaults:
       image: "/assets/fox.png" # Default image for sharing
   -
     scope:
-      path: ""
+      path: "/categories"
       type: "posts"
     values:
-      layout: post # Set the default layout for posts
+      layout: categories # Set the default layout for posts
   -
     scope:
       path: ""
