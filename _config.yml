@@ -62,7 +62,7 @@ timezone: Asia/Seoul # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Categories # Needed for Siteleaf
+    title: categories # Needed for Siteleaf
     output: true
     description: "공부한 것들을 분류해서 작성" # The post list page content
     feature_text: |
@@ -122,7 +122,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Categories
+- title: categories
   url: /categories/
 - title: Search
   url: /search/
@@ -133,7 +133,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/young_empty_
-  LinkedIn: https://www.linkedin.com/in/%EC%98%81%EB%B9%88-%EC%A1%B0-96684324a
+  LinkedIn: https://www.linkedin.com/in/youngbin-cho-96684324a/
   GitHub: https://github.com/lemoniczombi
   link: https://github.com/lemoniczombi
   RSS: /feed.xml
